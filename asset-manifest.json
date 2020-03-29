@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/FirstReactProject/static/css/main.d4d0d49d.chunk.css",
+    "main.js": "/FirstReactProject/static/js/main.af53cbc5.chunk.js",
+    "main.js.map": "/FirstReactProject/static/js/main.af53cbc5.chunk.js.map",
+    "runtime-main.js": "/FirstReactProject/static/js/runtime-main.689ce106.js",
+    "runtime-main.js.map": "/FirstReactProject/static/js/runtime-main.689ce106.js.map",
+    "static/js/2.f71a865a.chunk.js": "/FirstReactProject/static/js/2.f71a865a.chunk.js",
+    "static/js/2.f71a865a.chunk.js.map": "/FirstReactProject/static/js/2.f71a865a.chunk.js.map",
+    "index.html": "/FirstReactProject/index.html",
+    "precache-manifest.3ed879d3cab9f673e6d96b3e5473cd08.js": "/FirstReactProject/precache-manifest.3ed879d3cab9f673e6d96b3e5473cd08.js",
+    "service-worker.js": "/FirstReactProject/service-worker.js",
+    "static/css/main.d4d0d49d.chunk.css.map": "/FirstReactProject/static/css/main.d4d0d49d.chunk.css.map",
+    "static/js/2.f71a865a.chunk.js.LICENSE.txt": "/FirstReactProject/static/js/2.f71a865a.chunk.js.LICENSE.txt",
+    "static/media/bella.jpg": "/FirstReactProject/static/media/bella.91f0324e.jpg",
+    "static/media/daisy.jpg": "/FirstReactProject/static/media/daisy.741b723a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.689ce106.js",
+    "static/js/2.f71a865a.chunk.js",
+    "static/css/main.d4d0d49d.chunk.css",
+    "static/js/main.af53cbc5.chunk.js"
+  ]
+}
